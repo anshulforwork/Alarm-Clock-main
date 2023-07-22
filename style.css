@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  #clock {
+    margin: 50px auto;
+    font-size: 48px;
+  }
+  
+  #alarm {
+    margin-top: 50px;
+  }
+  
+  #alarmTime {
+    margin-right: 10px;
+  }
+  
+  #setAlarmBtn, #clearAlarmBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
